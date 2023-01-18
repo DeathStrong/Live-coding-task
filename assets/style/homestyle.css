@@ -6,6 +6,7 @@
 html, body {
   width: 100%;
   height: 100vh;
+  font-family: "Roboto", sans-serif;
 }
 
 header {
@@ -61,7 +62,7 @@ main {
   width: 100%;
 }
 .shipping__top {
-  width: 24%;
+  width: 26%;
   margin: auto;
   display: flex;
   -moz-column-gap: 30px;
